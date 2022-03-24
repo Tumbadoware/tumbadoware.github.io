@@ -44,7 +44,7 @@ My interests are Python, Javascript, HTML5, & CSS. As I said before I am still l
 <br>
 <a href="https://tumbadoware.github.io/unrestrict/">Proxy Links(proxys links)</a>
 <br>
- # Frequent Questions?
+ # Frequent Questions:
 # Who Is Tumbadoware?
  Tumbadoware, Mostly known on social media as Eternal/EternalWhis Is a Learning Coder; My hobbys are Reading, Coding, Playing Soccer, & Playing Retro Games!
 # What To Expect Next
