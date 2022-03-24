@@ -3,4 +3,4 @@
 My interests are Python, Javascript, HTML5, & CSS. As I said before I am still learning, so expect a lot of bugs.
 
 # Personal Sites
-<a href="https://tumbadoware.github.io/Eternals-sites/">Game Storage</a>
+<a href="https://tumbadoware.github.io/Eternals-Sites/">Game Storage</a>
