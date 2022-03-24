@@ -32,7 +32,7 @@ All My Sites With A Clear Vision
 <br>
 <a href="https://tumbadoware.github.io/downfall/">School-Project</a>
 <br>
-# 
+# Proxys
 <br>
 <a href="https://kanyesliving.herokuapp.com">Corrosion(proxy)</a>
 <br>
