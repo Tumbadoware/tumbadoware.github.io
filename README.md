@@ -2,7 +2,8 @@
  I am A US based learning coder. I want to contribute to making proxys and making the world a better place.
 My interests are Python, Javascript, HTML5, & CSS. As I said before I am still learning, so expect a lot of bugs.
 
-# Personal Sites
+# Tumbado Sites
+  # Games!
 <a href="https://tumbadoware.github.io/Eternals-Sites/">Game Storage</a>
 <br>
 <a href="https://tumbadoware.github.io/webretro/">Retro-Arch in your browser!</a>
@@ -19,14 +20,16 @@ My interests are Python, Javascript, HTML5, & CSS. As I said before I am still l
 <br>
 <a href="https://tumbadoware.github.io/shellshockers/">Shell Shockers(Full Screen)</a>
 <br>
-<a href="https://tumbadoware.github.io/250/">GAme Library(forked)</a>
-<br>
-<a href="https://tumbadoware.github.io/downfall/">School-Project</a>
+<a href="https://tumbadoware.github.io/250/">Game Library(forked)</a>
 <br>
 <a href="https://tumbadoware.github.io/fnaf2test/">FNaF 2 In your Browser</a>
 <br>
 <a href="https://tumbadoware.github.io/fnaf3/">FNaF 3</a>
 <br>
+ # Personal Sites!
+<a href="https://tumbadoware.github.io/downfall/">School-Project</a>
+<br>
+ # Proxys
 <a href="https://kanyesliving.herokuapp.com">Corrosion(proxy)</a>
 <br>
 <a href="https://twerk4me.herokuapp.com/">Incognito(proxy)</a>
@@ -41,6 +44,7 @@ My interests are Python, Javascript, HTML5, & CSS. As I said before I am still l
 <br>
 <a href="https://tumbadoware.github.io/unrestrict/">Proxy Links(proxys links)</a>
 <br>
+ # Frequent Questions?
 # Who Is Tumbadoware?
  Tumbadoware, Mostly known on social media as Eternal/EternalWhis Is a Learning Coder; My hobbys are Reading, Coding, Playing Soccer, & Playing Retro Games!
 # What To Expect Next
