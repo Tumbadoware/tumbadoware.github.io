@@ -29,9 +29,11 @@ All My Sites With A Clear Vision
 <a href="https://tumbadoware.github.io/fnaf3/">FNaF 3</a>
 <br>
 # Personal Sites!
+<br>
 <a href="https://tumbadoware.github.io/downfall/">School-Project</a>
 <br>
-# Proxys
+# 
+<br>
 <a href="https://kanyesliving.herokuapp.com">Corrosion(proxy)</a>
 <br>
 <a href="https://twerk4me.herokuapp.com/">Incognito(proxy)</a>
