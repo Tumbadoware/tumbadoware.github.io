@@ -54,5 +54,7 @@ All My Sites With A Clear Vision
 # What To Expect Next
  I will try to creare Proxy's, Unblocked Games, &  Personal Sites!
  # How to Contact Me?
+<br>
  -You can Countact me via Discord, or Email!
+<br>
 - Chief Keef#8882 or Eternalsarg@gmail.com
