@@ -30,10 +30,6 @@ All My Sites With A Clear Vision
 <br>
 <a href="https://scratch.mit.edu/projects/636958026/fullscreen/">FNaF 4</a>
 <br>
-<a href="https://scratch.mit.edu/projects/636958026/fullscreen/">FNaF 4</a>
-<br>
-<a href="https://scratch.mit.edu/projects/636961802/fullscreen/">FNaF 4</a>
-<br>
 # Personal Sites!
 <br>
 <a href="https://tumbadoware.github.io/downfall/">School-Project</a>
