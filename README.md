@@ -18,7 +18,7 @@ My interests are Python, Javascript, HTML5, & CSS. As I said before I am still l
 <br>
 <a href="https://tumbadoware.github.io/gfiles/">Gfiles(forked)</a>
 <br>
-<a href="https://tumbadoware.github.io/shellshockers/">Shell Shockers(Full Screen)</a>
+<a href="https://tumbadoware.github.io/shellshockers/">Shell Shockers(Full Screen)-(Under Development)</a>
 <br>
 <a href="https://tumbadoware.github.io/250/">Game Library(forked)</a>
 <br>
@@ -49,3 +49,6 @@ My interests are Python, Javascript, HTML5, & CSS. As I said before I am still l
  Tumbadoware, Mostly known on social media as Eternal/EternalWhis Is a Learning Coder; My hobbys are Reading, Coding, Playing Soccer, & Playing Retro Games!
 # What To Expect Next
  I will try to creare Proxy's, Unblocked Games, &  Personal Sites!
+ # How to Contact Me?
+ -You can Countact me via Discord, or Email!
+- Chief Keef#8882 or Eternalsarg@gmail.com
