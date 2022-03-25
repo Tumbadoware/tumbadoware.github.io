@@ -60,3 +60,24 @@ All My Sites With A Clear Vision
  -You can Countact me via Discord, or Email!
 <br>
 - Chief Keef#8882 or Eternalsarg@gmail.com
+<!--
+This form is to provide a platform for anonymus feedback from the team to leads. 
+
+Question is optional, it can be used to kickstart the conversation or feedback. 
+
+All the suggestions go directly to the leads. 
+-->
+<div class="container">  
+  <form id="suggestion_box" action="" method="post">
+    <h3>Suggestion box</h3>
+    <h4>Question of the month:</h4>
+    <p>Here comes the question</p>
+    <h5>Or general improvement ideas</h5>
+    <fieldset>
+      <textarea placeholder="Suggestion" tabindex="5" name="suggestion_text" required></textarea>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="suggestion_box" data-submit="...Sending" value="text to send">Submit</button>
+    </fieldset>
+  </form>
+</div>
